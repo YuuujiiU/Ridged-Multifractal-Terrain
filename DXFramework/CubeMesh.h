@@ -1,0 +1,22 @@
+//在BaseMesh.h的基础上继续
+
+#ifndef _CUBEMESH_H_
+#define _CUBEMESH_H_
+
+#include "BaseMesh.h"
+
+using namespace DirectX;
+
+class CubeMesh : public BaseMesh
+{
+
+public:
+	CubeMesh(ID3D11Device* device, ID3D11DeviceContext* deviceContext, WCHAR* textureFilename, int resolution = 20);
+	~CubeMesh();
+
+protected:
+	void InitBuffers(ID3D11Device* device);
+	int m_resolution;
+};
+
+#endif
