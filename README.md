@@ -1,6 +1,8 @@
 # Ridged-Multifractal-Terrain
 Dynamic segmentation of three-dimensional terrain scene generation based on GPU
 
+The display vedio link: https://www.dropbox.com/s/mqq5w3qwyg0c3a7/C%2B%2B%3ADirectX%3AMulti-fractal_Terrain_Compiler.mp4?dl=0
+
 
 This file contains a summary of what you will find in each of the files that
 make up your DXFramework application.
