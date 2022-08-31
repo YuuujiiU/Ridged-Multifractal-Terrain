@@ -1,6 +1,13 @@
 # Ridged-Multifractal-Terrain
 Dynamic segmentation of three-dimensional terrain scene generation based on GPU based on DirectX 11
 
+TERRAINS GENERATION ON THE GPU | C++, DirectX, Distributed Systems
+● Developed a 3D graphics compiler on the GPU to generate, texture, and procedurally shade the terrain for rendering.
+
+● Implemented Perlin Noise module, generated Ridged-multifractal noise to modify the height of the tessellated grid with GUI
+graphical user interface with DirectX 11.
+
+
 The display vedio link: https://www.dropbox.com/s/mqq5w3qwyg0c3a7/C%2B%2B%3ADirectX%3AMulti-fractal_Terrain_Compiler.mp4?dl=0
 
 
